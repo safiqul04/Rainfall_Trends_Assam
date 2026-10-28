@@ -6,7 +6,7 @@ Rainfall Trend Analysis in Assam is a Python mini-project that analyses historic
 
 The project consists of two main Python programs:
 
-1. **Rainfall Analysis:** Analyses the dataset and generates rainfall visualisations.
+1. **Rainfall Analysis:** Analyses the dataset and generates rainfall visualisations. 
 2. **Rainfall Dashboard:** Provides an interactive interface to explore rainfall data using Streamlit.
 
 ## 2. Project Objectives
